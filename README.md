@@ -11,6 +11,7 @@ Basic example of how to use [Databricks SQL Python Connector](https://docs.datab
 
 ## Reference
 
+* [Databricks SQL](https://databricks.com/product/databricks-sql)
 * [Databricks SQL Queries and Dashboards REST API](https://docs.databricks.com/sql/api/queries-dashboards.html)
 * [PyPi - Databricks SQL Connector](https://pypi.org/project/databricks-sql-connector/)
 
