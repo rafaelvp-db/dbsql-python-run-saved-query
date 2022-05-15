@@ -3,3 +3,4 @@ venv
 .venv
 .whl
 .egg
+.DS_Store
