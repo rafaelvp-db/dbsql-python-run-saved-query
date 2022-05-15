@@ -1,4 +1,4 @@
-# dbsql-run-query
+# dbsql-python-run-saved-query
 Basic example of how to use [Databricks SQL Python Connector](https://docs.databricks.com/dev-tools/python-sql-connector.html) for running a pre-saved query.
 
 ## Instructions
